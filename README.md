@@ -11,7 +11,7 @@ Example files and questions so you can explore genetic data yourself.
 2. SampleAlignment.sam
 
   - What is a SAM file?
-  - What is the location of the first read?
+  - What chromosome do the reads align to?
 
 
 3. SampleGenotypes.vcf
@@ -25,6 +25,5 @@ Example files and questions so you can explore genetic data yourself.
 
  Go to: http://htmlpreview.github.io/?https://github.com/jarobin/LowellHS_ConservationGenomics/blob/master/SampleGenotypes.vcf_AnnotationSummary.html 
 
-  - What chromosome was used as input?
   - How many genes overlapped with the variants?
   - Are synonymous or missense mutations more common?
