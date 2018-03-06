@@ -1,5 +1,6 @@
 # LowellHS_ConservationGenomics
-Files for conservation genomics presentation
+Example files and questions so you can explore genetic data yourself.
+
 
 1. SampleReads.fastq
 
