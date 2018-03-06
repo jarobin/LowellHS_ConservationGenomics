@@ -1,4 +1,4 @@
-# LowellHS_ConservationGenomics
+# Lowell High School Conservation Genomics Workshop
 Example files and questions so you can explore genetic data yourself.
 
 
