@@ -3,33 +3,27 @@ Files for conservation genomics presentation
 
 1. SampleReads.fastq
 
-  A) What is a FASTQ file?
-
-  B) How many reads are in the file?
+  - A) What is a FASTQ file?
+  - B) How many reads are in the file?
 
 
 2. SampleAlignment.sam
 
-  A) What is a SAM file?
-
-  B) What is the location of the first read?
+  - A) What is a SAM file?
+  - B) What is the location of the first read?
 
 
 3. SampleGenotypes.vcf
 
-  A) What is a VCF file?
-
-  B) How many samples are in the file?
-
-  C) What is the reference allele in the first position? What is the alternate allele?
+  - A) What is a VCF file?
+  - B) How many samples are in the file?
+  - C) What is the reference allele in the first position? What is the alternate allele?
 
 
 4. SampleGenotypes.vcf_AnnotationSummary.html
 
  Go to: http://htmlpreview.github.io/?https://github.com/jarobin/LowellHS_ConservationGenomics/blob/master/SampleGenotypes.vcf_AnnotationSummary.html 
 
-  A) What chromosome was used as input?
-
-  B) How many genes overlapped with the variants?
-
-  C) Are synonymous or missense mutations more common?
+  - A) What chromosome was used as input?
+  - B) How many genes overlapped with the variants?
+  - C) Are synonymous or missense mutations more common?
