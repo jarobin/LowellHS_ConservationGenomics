@@ -23,12 +23,12 @@ Example files and questions so you can explore genetic data yourself.
 
 4. SampleGenotypes.vcf_AnnotationSummary.html
 
- Go to: http://htmlpreview.github.io/?https://github.com/jarobin/LowellHS_ConservationGenomics/blob/master/SampleGenotypes.vcf_AnnotationSummary.html 
+ Open in new window: http://htmlpreview.github.io/?https://github.com/jarobin/LowellHS_ConservationGenomics/blob/master/SampleGenotypes.vcf_AnnotationSummary.html 
 
   - How many genes overlapped with the variants?
   - Are synonymous or missense mutations more common?
   
   
-5. Go to https://genome.ucsc.edu/cgi-bin/hgGateway
+5. Open in new window: https://genome.ucsc.edu/cgi-bin/hgGateway
   
   - Is your favorite species' genome available?
