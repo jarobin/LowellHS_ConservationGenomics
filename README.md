@@ -27,3 +27,8 @@ Example files and questions so you can explore genetic data yourself.
 
   - How many genes overlapped with the variants?
   - Are synonymous or missense mutations more common?
+  
+  
+5. Go to https://genome.ucsc.edu/cgi-bin/hgGateway
+  
+  - Is your favorite species' genome available?
